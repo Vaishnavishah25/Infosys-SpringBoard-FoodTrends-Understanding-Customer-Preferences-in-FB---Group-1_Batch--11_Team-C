@@ -1,4 +1,4 @@
-# Infosys-SpringBoard-FoodTrends-Understanding-Customer-Preferences-in-FB---Group-1_Batch--11_Team-C
+# Infosys-SpringBoard-FoodTrends-Understanding-Customer-Preferences-in-FB-Group-1_Batch-11_Team-C
 This project, developed under Infosys SpringBoard, analyzes food and restaurant trends to understand customer preferences, engagement patterns, and quality risks. Interactive Power BI dashboards are used to transform data into meaningful insights for business decision-making.
 # 🍽️ Food Trend Analysis
 
@@ -19,14 +19,33 @@ The project emphasizes *storytelling through data*, ensuring that insights are n
 The repository contains the following files:
 
 - *Power BI File*
-  - Food_Trend_Analysis.pbix – Complete Power BI dashboard with all analyses
+  - Infosys_SpringBoard_Food_Trend_Analysis_Dashboards.pbix – Complete Power BI dashboard with all analyses
 
 - *Presentations*
-  - team_members_ppt.pptx – Team introduction and individual contributions  
+  - Individual PPTS  – Folder for Personal PPTS
+    
+    - Infosys_Springboard_PPT_Harini_M.pptx
+    
+    - Infosys_Springboard_PPT_Piyush_Nitnaware.pptx
+    
+    - Infosys_Springboard_PPT_Raghav_Vyas.pptx
+    
+    - Infosys_Springboard_PPT_Sam_Joseph.pptx
+    
+    - Infosys_Springboard_PPT_Vaishnavi_Shah.pptx
+    
   - Group_ppt.pptx – Project overview, dashboards, and insights  
 
 - *Reports*
-  - Internship_Completion_Report.pdf – Detailed internship and project documentation  
+  - Infosys_Springboard_Internship_Report.pdf – Detailed internship and project documentation
+
+-*Documents*
+  - *README.md* – Complete project documentation  
+  - *LICENSE* – MIT License for project usage  
+
+-*Dataset*
+  - *zomato_restaurants.csv* (Source: Kaggle)  
+    *(Dataset used for analysis and modeling purposes)*
 
 ---
 
@@ -73,6 +92,17 @@ The repository contains the following files:
 - *Data Preprocessing:* Power BI – Power Query Editor
 - *Data Modeling & Visualization:* Microsoft Power BI
 - *Version Control:* Git & GitHub
+  
+## 💡 Skills Applied
+
+- Data Cleaning & Transformation  
+- Data Modeling  
+- DAX Calculations  
+- Dashboard Storytelling  
+- Business Insight Generation  
+- Risk Detection & Categorization  
+- Version Control & Repository Management  
+- Team Collaboration & Documentation  
 
 ---
 
@@ -82,20 +112,40 @@ You are free to use, modify, and distribute this project with proper attribution
 
 ---
 
-## 👥 Contributors
-- Vaishnavi Shah  
-- Harini  
-- Piyush Nitnaware  
-- Raghav Vyas  
-- Sam Joseph  
 
----
 
 ## 🎯 Team Learnings & Outcomes
-- Developed strong skills in *data cleaning, modeling, and transformation*
-- Learned *dashboard storytelling* and business-focused visualization
-- Gained experience in translating data insights into *actionable strategies*
-- Improved collaboration and real-world project execution skills
+This project was executed collaboratively through structured milestones.
+
+### 🔹 Milestone 1 – Dataset & Planning
+- Dataset Reviewed and approved collectively by all team members
+- Business objectives defined collaboratively
+### 🔹 Milestone 2 – Dashboards 1–3
+- Approximately 15 visuals developed across three dashboards
+- Work shared among all team members:
+  - Visual creation
+  - Layout improvements
+  - Insight discussions
+  - Analytical refinement
+### 🔹 Milestone 3 – Dashboards 4–5
+- Equal team contribution in:
+  - Design alignment
+  - DAX logic discussions
+  - Business storytelling improvements
+  - Peer review and feedback
+### 🔹 Milestone 4 – Dashboards 6–7
+- Collaborative development of:
+  - Risk detection logic
+  - Action category framework
+  - Insight validation and refinements
+### 🔹 Documentation & Presentation
+- Internship Report: **Harini**
+- Report refinements: **Raghav**
+- Group PPT: **Piyush**
+- Personal PPTs: Prepared individually by each member
+- Coordination & Team Support: **Sam**
+- Final repository verification: **Vaishnavi**
+
 
 ---
 
@@ -109,6 +159,14 @@ You are free to use, modify, and distribute this project with proper attribution
 
 ## ✅ Conclusion
 The *Food Trend Analysis* project demonstrates how data visualization and analytics can drive smarter business decisions in the food and restaurant industry. By combining technical analysis with intuitive storytelling, the project delivers insights that are both impactful and practical for stakeholders.
+
+---
+## 👥 Contributors
+- Vaishnavi Shah  
+- Harini M
+- Piyush Nitnaware  
+- Raghav Vyas  
+- Sam Joseph  
 
 ---
 
