@@ -95,14 +95,28 @@ The repository contains the following files:
   
 ## 💡 Skills Applied
 
-- Data Cleaning & Transformation  
-- Data Modeling  
-- DAX Calculations  
-- Dashboard Storytelling  
-- Business Insight Generation  
-- Risk Detection & Categorization  
-- Version Control & Repository Management  
-- Team Collaboration & Documentation  
+### 🔹 Technical Skills
+- Microsoft Power BI
+- Power Query Editor
+- DAX Calculations
+- Data Modeling
+- Interactive Dashboard Development
+- Data Visualization Techniques
+- GitHub & GitLab Version Control
+
+### 🔹 Analytical Skills
+- Business Problem Understanding
+- Insight Generation
+- Risk Identification & Categorization
+- Trend Analysis
+
+### 🔹 Professional Skills
+- Team Collaboration
+- Leadership & Coordination
+- Documentation & Reporting
+- Time Management
+- Structured Milestone Execution
+ 
 
 ---
 
